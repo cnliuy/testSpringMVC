@@ -4,7 +4,7 @@
   
 ≤Œøº  https://github.com/mitre/HTTP-Proxy-Servlet#smileys-http-proxy-servlet  
 
-***  
+°§°§°§  
 <servlet>  
     <servlet-name>solr</servlet-name>  
     <servlet-class>org.mitre.dsmiley.httpproxy.ProxyServlet</servlet-class>  
@@ -21,5 +21,5 @@
   <servlet-name>solr</servlet-name>  
   <url-pattern>/solr/*</url-pattern>  
 </servlet-mapping>  
-***
+°§°§°§  
 ≈‰÷√‘⁄ web.xml÷–°£
